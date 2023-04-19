@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="yml" />
+    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="all files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581191690472</updated>
-      <workItem from="1681928221395" duration="632000" />
+      <workItem from="1681928221395" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="yml">
       <created>1681928774323</created>
@@ -84,7 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681928774323</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all files">
+      <created>1681928964131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681928964131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all files">
+      <created>1681929156473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681929156473</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all files">
+      <created>1681929227568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681929227568</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="yml" />
+    <MESSAGE value="all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files" />
   </component>
 </project>
