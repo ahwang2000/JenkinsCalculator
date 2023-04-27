@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="all files" />
+    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="finished code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calculator.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/adhwa/Downloads/JenkinsCalculator (1)/JenkinsCalculator"
+    "last_opened_file_path": "C:/Users/adhwa/Downloads/JenkinsCalculator/JenkinsCalculator"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -37,7 +41,15 @@
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTestThorough">
+  <component name="RunManager" selected="JUnit.All in JenkinsCalculator">
+    <configuration name="All in JenkinsCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTestThorough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JenkinsCalculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -59,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in JenkinsCalculator" />
         <item itemvalue="JUnit.CalculatorTestThorough" />
         <item itemvalue="JUnit.CalculatorTest.divideTest" />
       </list>
@@ -75,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581191690472</updated>
-      <workItem from="1681928221395" duration="1012000" />
+      <workItem from="1681928221395" duration="2669000" />
     </task>
     <task id="LOCAL-00001" summary="yml">
       <created>1681928774323</created>
@@ -105,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681929227568</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="all files">
+      <created>1681929405865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681929405865</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yml" />
     <MESSAGE value="all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files" />
+    <MESSAGE value="finished code" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished code" />
   </component>
 </project>
